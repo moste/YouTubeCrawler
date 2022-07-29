@@ -10,3 +10,7 @@
 产出一个`mp4`格式的视频文件，名称是当前文件夹的名称。
 
 `main`函数中可以设置并发的最大 goroutine。
+
+<a href="https://www.upsuperdeals.com/posts/Kids-Lunch-Box.html">Kids Lunch Box</a>
+
+<a href="https://www.hongquekol.com/blog/archives/wang-hong-ying-xiao-kol-ying-xiao-2022-nian-ru-he-zuo-hao-wang-hong-ying-xiao--wang-hong-ying-xiao-ping-tai-tui-jian">网红营销</a>
